@@ -26,7 +26,18 @@ Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate d
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+Operating System Concepts, 10th Edition
+by Abraham Silberschatz (Author), Greg Gagne (Author), Peter B. Galvin (Author) 
+(Online Access) https://www.os-book.com/OS10/
+
+
+Operating Systems: Three Easy Pieces
+by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison)
+(Online Access) https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+## Assessment
+
+Written examination 30%, mid semester class test 30%, in-class quizzes 10% and course work 30%
 
 ## Assignments
 
