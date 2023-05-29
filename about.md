@@ -18,7 +18,15 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+This course introduces students to data science, with topics covering a range of mathematical concepts involved in reviewing and manipulating data. There will be discussions about different types and styles of data and how to handle them, particularly with respect to plotting and visualising this data.
+
+By the end of this course, students will be able to:
+
+1. Apply knowledge of tensor form, vectorisation and matrix decomposition in solving mathematical and practical problems.
+
+2. Describe how to bridge the continuous and discrete worlds, solving graph flow via metric operations in a software program.
+
+3. Create effective, clear, and precise visualisations of data and be able to apply manipulations and conversions on said visualisations.
 
 ## Lecture
 
@@ -28,11 +36,13 @@ Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate d
 
 Operating System Concepts, 10th Edition
 by Abraham Silberschatz (Author), Greg Gagne (Author), Peter B. Galvin (Author) 
+
 (Online Access) https://www.os-book.com/OS10/
 
 
 Operating Systems: Three Easy Pieces
 by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison)
+
 (Online Access) https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 ## Assessment
